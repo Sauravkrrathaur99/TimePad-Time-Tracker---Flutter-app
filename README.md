@@ -1,4 +1,4 @@
 # TimePad-Time-Tracker---Flutter-app
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/screenshot_appview.jpeg?raw=true)
+![screenshot_appview](https://user-images.githubusercontent.com/71010336/178158522-3d1bf813-b863-4d4d-afa2-8942ba9f71ea.jpeg)
